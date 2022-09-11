@@ -1,3 +1,18 @@
+# Frontend ReactJS Client for CRUD-App
+
+**Instructions to run**
+
+```
+//cd into folder
+cd .\crud_app
+
+//install dependencies
+npm install
+
+//run react app
+npm start
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
